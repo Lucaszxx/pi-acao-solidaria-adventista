@@ -1,0 +1,17 @@
+section + section    {
+    background-color: #083C34;
+    text-align: center;
+    height: 6.375rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+section > p {
+    font-size: 20px;
+    color: white;
+}
+
+div > img {
+    width: 100%;
+}

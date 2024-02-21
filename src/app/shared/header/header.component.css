@@ -1,0 +1,26 @@
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4.625rem;
+}
+
+img {
+    width: 6.25rem;
+}
+
+nav {
+    margin-right: 20em;
+}
+
+ul {
+    display: flex;
+    gap: 3.125rem;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
